@@ -55,7 +55,7 @@
 // global constants
 
 extern const char* htmlHomePage PROGMEM;
-const char* ssid     = "JAMES MiniSkidi";
+const char* ssid     = "MAX MiniSkidi";
 
 // global variables
 
